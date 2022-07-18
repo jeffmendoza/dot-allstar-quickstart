@@ -1,3 +1,4 @@
 optConfig:
   optOutStrategy: true
 action: issue
+dismissStale: false
